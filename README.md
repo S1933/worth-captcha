@@ -1,31 +1,26 @@
 # WorthCaptcha
 
-Description: une application/outil captcha anti-bot (à préciser par vous). Cet README décrit rapidement le projet, son installation et son usage.
+Projet simple: README minimal pour WorthCaptcha.
 
 ## Description
-Bref aperçu du projet, objectif et cas d'usage.
+Prototype pour tester des flux CAPTCHA/anti-bot et workflows.
 
 ## Installation
-- Prérequis
-- Installation et setup
-  - Exemple: clone du dépôt, installer les dépendances, etc.
-- Démarrage local
+- Prérequis: Git
+- Initialiser le repo et installer les dépendances selon votre stack
 
 ## Utilisation
-- Démarrage serveur local / endpoints
-- Comment tester le CAPTCHA/system anti-bots
+- Lancer le service selon votre langage (ex: go run main.go, npm start, etc.)
+- Accéder à l’URL locale selon votre stack
 
 ## Fonctionnalités
-- Liste des features (à compléter)
+- CAPTCHA/anti-bot (à préciser)
 
 ## Technologies
-- Liste des technologies utilisées (par ex: Node.js / Python / Go, Docker, etc.)
+- À compléter selon stack
 
 ## Contribuer
-- Fork, PR, issues, guidelines de contribution
+- Fork, PR, issues
 
 ## Licence
-- MIT (à préciser)
-
-## Déploiement (facultatif)
-- Scripts de déploiement, environnements, CI, etc.
+- MIT

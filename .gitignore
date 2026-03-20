@@ -1,0 +1,32 @@
+# Ignore common project artifacts
+node_modules/
+dist/
+build/
+dist-node/
+dist/**/
+coverage/
+.vscode/
+.idea/
+.env
+.env.local
+.env.*
+*.log
+*.tmp
+*.tmp.*
+*.swp
+.DS_Store
+thumbs.db
+# Go / Rust / Python caches (adjust as per stack)
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyc
+__pycache__/
+*.class
+
+# OS files
+._*
+.Spotlight-V100
+.Trashes
+Icon
